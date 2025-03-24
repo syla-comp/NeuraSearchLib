@@ -1,1 +1,5 @@
 # NeuraSearchLib
+
+While Deep Neural Networks (DNN) have driven technological innovation, designing new architectures remains labor-intensive, requiring human expertise and numerous trialand-error iterations. Neural Architecture Search (NAS) aims to automate this process for more efficient exploration of DNN architectures. However, current NAS libraries lack flexibility, particularly in DNN search space customization, and lack universal, ready-to-use templates for state-of-the-art NAS search spaces. This paper introduces NeuraSearchLib, a modular and extensible NAS library that allows users to create and customize search spaces with high flexibility using simple high-level specifications. NeuraSearchLib can reproduce existing NAS search spaces, create new ones, and conduct experiments with various search strategies, training methods, and performance evaluations, enabling researchers to explore new DNN architectures more efficiently. *
+Index Terms—Deep Learning, Neural Architecture Search,
+Search Space Design, NAS Library.
